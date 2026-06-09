@@ -1,0 +1,6 @@
+# pliki środowiskowe
+.env
+.env.docker
+
+Backend/.env
+Backend/.env.docker
