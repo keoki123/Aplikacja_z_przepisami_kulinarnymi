@@ -33,7 +33,7 @@ const UNIT_OPTIONS = [
 
   { value: "pinch", label: "szczypta" },
   { value: "pinches", label: "szczypty" },
-  { value: "dash", label: "odrobina" }
+  { value: "dash", label: "odrobina" },
   { value: "drops", label: "krople" },
 
   { value: "bunch", label: "pęczek" },
